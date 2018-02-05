@@ -1,0 +1,1 @@
+Check trial #10 (Jan 31) to see if the inhibition is not more like that of 10uM not 100uM.
