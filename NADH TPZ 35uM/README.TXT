@@ -1,0 +1,1 @@
+The one done on Feb 14 had an artifact a little while after adding the tpz. Fix it.
